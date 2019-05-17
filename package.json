@@ -1,5 +1,6 @@
 {
   "name": "@snyk/ruby-semver",
+  "version": "2.0.2-rc.0",
   "description": "node-semver compatible API with RubyGems semantics",
   "main": "index.js",
   "scripts": {
